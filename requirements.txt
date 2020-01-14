@@ -1,0 +1,5 @@
+django-model-utils>=2.0
+# Additional requirements go here
+django-polymorphic
+django-extensions
+django-author
